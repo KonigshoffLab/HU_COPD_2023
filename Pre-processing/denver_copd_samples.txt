@@ -1,0 +1,11 @@
+identifier	internal_id	Smoke	health_status	age_status	age	gender	Disease Stage	Lobe	Platform	Aiming Reads	PCR cycles	Seq length
+Koenigshoff_12072017	MK#2	non-smoker	healthy	old	56	male			Illumina¨ NovaSeq 6000	"100,000 reads/cell X 10,000 cells/library"	14	2 x150
+Koenigshoff_02152019	LTC46	non-smoker	healthy	old	66	male			Illumina¨ NovaSeq 6000	"100,000 reads/cell X 10,000 cells/library"	14	3 x150
+MKdonor55	LTC55	non-smoker	healthy	old	68	female			Illumina¨ NovaSeq 6000	"100,000 reads/cell X 10,000 cells/library"	14	4 x150
+MKdonorLTC50	LTC50	non-smoker	healthy	old	66	male			Illumina¨ NovaSeq 6000	"100,000 reads/cell X 10,000 cells/library"	14	5 x150
+Koenigshoff_12122018	LTC36	smoker	COPD	COPD	59	male			Illumina¨ NovaSeq 6000	"100,000 reads/cell X 10,000 cells/library"	14	6 x150
+Koenigshoff_COPDLTC37	LTC37	smoker	COPD	COPD	66	male			Illumina¨ NovaSeq 6000	"100,000 reads/cell X 10,000 cells/library"	14	7 x150
+MKCOPDLTC39	LTC39	smoker	COPD	COPD	68	female			Illumina¨ NovaSeq 6000	"100,000 reads/cell X 10,000 cells/library"	14	8 x150
+Koenigshoff_07182018	LTC23	smoker	COPD	COPD	60	male			Illumina¨ NovaSeq 6000	"100,000 reads/cell X 10,000 cells/library"	14	9 x150
+MKCOPD79	LTC79	Marijuana-smoker	COPD	COPD	58	male			Illumina¨ NovaSeq 6000	"100,000 reads/cell X 10,000 cells/library"	14	10 x150
+MKCOPD80	LTC80	smoker	COPD	COPD	61	male			Illumina¨ NovaSeq 6000	"100,000 reads/cell X 10,000 cells/library"	14	11 x150
